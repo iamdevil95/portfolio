@@ -1,0 +1,65 @@
+    nav{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+            background-color: rgba(8, 187, 193, 0.203);
+
+        }
+        body{
+            background-image: url(https://media.istockphoto.com/id/1501103626/photo/defocused-background-image-of-a-spacious-hallway-in-a-modern-office.webp?a=1&b=1&s=612x612&w=0&k=20&c=CMrJ2NGMR0MoAjanRnUyBygvaKToHnlXIAGG29MYqXI=);
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        .home,.about,.skill,.contact{
+            padding-right: 10px;;
+            justify-content: space-evenly;
+        }
+        .links{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            color: white;
+        }
+        .name{
+           
+            padding-right: 10px;
+            color: white;
+            font-size: 50px;
+            text-decoration: none;
+            color: rgb(240, 255, 255);
+          
+        }
+        .text{
+            color: rgb(3, 82, 56);
+            font-size: 50px;
+            padding-top: 100px;
+            justify-content: center;
+            font-family: 'Times New Roman', Times, serif;
+            padding-bottom: 1.8%;
+            letter-spacing: 1px;
+        }
+        .link{
+            padding-right: 15px;
+        } 
+        a{
+            text-decoration: none;
+            color: rgb(192, 250, 255);
+        }
+        .context{
+            background-color: rgba(8, 187, 193, 0.203);
+            padding-bottom: 150px;
+            height: 60px;
+            width:300px;
+            margin-top: 10px;
+        }
+        .hi{
+            color: rgb(4, 170, 117);
+            font-size: 40px;
+            font-family: 'Times New Roman', Times, serif;
+            margin-top: 5px;
+        }
